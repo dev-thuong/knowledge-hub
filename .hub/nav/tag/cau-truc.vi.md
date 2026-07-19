@@ -6,6 +6,7 @@
 > **Tác giả:** ThuongDev  
 >
 > **Ngày tạo:** 2026-07-15  
+> **Cập nhật:** 2026-07-19  
 >
 > **Ngữ cảnh:** Danh sách nội dung theo thẻ   
 
@@ -39,4 +40,6 @@ Các bài viết mang thẻ này đóng vai trò **nền tảng**, giúp đảm 
 
 ## Các bài viết có thẻ `#cấu-trúc`
 
-[1. Quy tắc tổ chức thư mục](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)
+[1. Cách tạo Metadata cho bài viết Markdown](/1.1%20Kiến%20thức%20[vi]/0.%20Hướng%20dẫn/1.%20Cách%20tạo%20Metadata%20bài%20viết.md)
+
+[2. Quy tắc tổ chức thư mục (Dự án)](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)

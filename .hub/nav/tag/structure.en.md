@@ -3,9 +3,10 @@
 
 <br>
 
-> **Author:** ThuongDev
+> **Author:** ThuongDev  
 >
-> **Created:** 2026-07-15
+> **Created:** 2026-07-15  
+> **Updated:** 2026-07-19  
 >
 > **Context:** Tag-based content listing   
 
@@ -39,4 +40,6 @@ Content with this tag serves as a **foundation**, helping ensure:
 
 ## Articles tagged with `#structure`
 
-[1. Folder Organization Guidelines](/2.2%20Projects%20[en]/0.%20Guides/1.%20Folder%20Organization%20Guidelines.md)
+[1. How to Create Metadata for Markdown Articles](/2.1%20Knowledge%20[en]/0.%20Guides/1.%20How%20to%20Create%20Article%20Metadata.md)
+
+[2. Folder Organization Guidelines (Projects)](/2.2%20Projects%20[en]/0.%20Guides/1.%20Folder%20Organization%20Guidelines.md)
