@@ -6,7 +6,7 @@
 > **Author:** ThuongDev  
 >
 > **Created:** 2026-07-15  
-> **Updated:** 2026-07-20  
+> **Updated:** 2026-07-27  
 >
 > **Context:** Tag-based content listing   
 
@@ -14,34 +14,32 @@
 
 # Tag `#structure`
 
+## 🏷️ 1. What is the `#structure` tag?
+
 <details>
-<summary>What is the #structure tag?</summary>
+<summary>View details</summary>
 
 <br>
 
-The **#structure** tag is used to mark content related to **system structure** in KnowledgeHub.
+The **#structure** tag is used to mark articles related to the **folder and file structure** of KnowledgeHub.
 
-It covers:
+It includes:
 
-* Folder organization
-* Naming conventions
-* Document hierarchy
-* Relationships between components
+* Guidelines for organizing folders/files
+* Naming conventions for folders/files
+* Relationships between folders/files
 
-Content with this tag serves as a **foundation**, helping ensure:
+Articles with this tag serve as a **foundation** for the system, helping ensure:
 
-* Consistency
-* Scalability
-* Understanding and navigation across the entire system
+* Consistency as the system grows
+* Easier understanding and navigation throughout KnowledgeHub
 
 </details>
 
 ---
 
-## Articles tagged with `#structure`
+## 📚 2. Articles tagged with `#structure`
 
-[1. How to Create Metadata for Markdown Articles](/2.1%20Knowledge%20[en]/0.%20Guides/1.%20How%20to%20Create%20Article%20Metadata.md)
+[1. Folder Organization Guidelines `Projects [en]`](/2.2%20Projects%20[en]/0.%20Guides/1.%20Folder%20Organization%20Guidelines.md)
 
-[2. Folder Organization Guidelines (Projects)](/2.2%20Projects%20[en]/0.%20Guides/1.%20Folder%20Organization%20Guidelines.md)
-
-[3. List of Tags](/2.1%20Knowledge%20[en]/0.%20Guides/2.%20List%20of%20Tags.md)
+[2. Python Content Overview](/2.1%20Knowledge%20[en]/2.%20Programming/1.%20Python/0.%20Guides/1.%20Python%20Content%20Overview.md)

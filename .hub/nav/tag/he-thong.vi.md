@@ -6,7 +6,7 @@
 > **Tác giả:** ThuongDev
 >
 > **Ngày tạo:** 2026-07-15  
-> **Cập nhật:** 2026-07-20  
+> **Cập nhật:** 2026-07-28  
 >
 > **Ngữ cảnh:** Danh sách nội dung theo thẻ   
 
@@ -14,35 +14,49 @@
 
 # Thẻ `#hệ-thống`
 
+## 🏷️ 1. Thẻ `#hệ-thống` là gì?
+
 <details>
-<summary>Thẻ #hệ-thống là gì?</summary>
+<summary>Xem chi tiết</summary>
 
 <br>
 
-Thẻ **#hệ-thống** dùng để đánh dấu các nội dung liên quan đến **tổng thể hệ thống** trong KnowledgeHub.
+Thẻ **#hệ-thống** dùng để đánh dấu các bài viết liên quan đến **cách tổ chức và vận hành KnowledgeHub**.
 
-Phạm vi bao gồm:
+Nó bao gồm các bài viết về:
 
-* Kiến trúc tổng thể (overall architecture)
-* Các thành phần chính và vai trò của chúng
+* Quy tắc quản lý thông tin (ví dụ: metadata)
+* Cấu trúc phân loại (ví dụ: tag)
+* Cấu trúc thư mục/file, được đề cập chi tiết trong [#cấu-trúc](/.hub/nav/tag/cau-truc.vi.md)
 * Nguyên tắc vận hành hệ thống
-* Luồng hoạt động và tương tác giữa các phần
 
 Các bài viết mang thẻ này đóng vai trò **định hướng**, giúp đảm bảo:
 
 * Cái nhìn tổng quan rõ ràng
 * Sự liên kết giữa các thành phần
 * Khả năng mở rộng và phát triển lâu dài
-* Hiểu đúng cách hệ thống hoạt động như một thể thống nhất
+
+```
+#hệ-thống
+│
+├── #cấu-trúc
+│   └── Cấu trúc thư mục/file
+│
+├── Metadata
+│
+├── Cấu trúc phân loại
+│
+└── Quy trình
+```
 
 </details>
 
 ---
 
-## Các bài viết có thẻ `#hệ-thống`
+## 📚 2. Các bài viết có thẻ `#hệ-thống`
 
 [1. Cách tạo Metadata cho bài viết Markdown](/1.1%20Kiến%20thức%20[vi]/0.%20Hướng%20dẫn/1.%20Cách%20tạo%20Metadata%20bài%20viết.md)
 
-[2. Quy tắc tổ chức thư mục (Dự án)](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)
+[2. Quy tắc tổ chức thư mục `Dự án [vi]`](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)
 
 [3. Danh sách thẻ](/1.1%20Kiến%20thức%20[vi]/0.%20Hướng%20dẫn/2.%20Danh%20sách%20thẻ.md)

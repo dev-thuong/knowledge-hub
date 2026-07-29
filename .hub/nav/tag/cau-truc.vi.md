@@ -6,7 +6,7 @@
 > **Tác giả:** ThuongDev  
 >
 > **Ngày tạo:** 2026-07-15  
-> **Cập nhật:** 2026-07-20  
+> **Cập nhật:** 2026-07-27  
 >
 > **Ngữ cảnh:** Danh sách nội dung theo thẻ   
 
@@ -14,34 +14,32 @@
 
 # Thẻ `#cấu-trúc`
 
+## 🏷️ 1. Thẻ `#cấu-trúc` là gì?
+
 <details>
-<summary>Thẻ #cấu-trúc là gì?</summary>
+<summary>Xem chi tiết</summary>
 
 <br>
 
-Thẻ **#cấu-trúc** dùng để đánh dấu các nội dung liên quan đến **cấu trúc hệ thống** trong KnowledgeHub.
+Thẻ **#cấu-trúc** dùng để đánh dấu các bài viết liên quan đến **cấu trúc thư mục và file** trong KnowledgeHub.
 
-Phạm vi bao gồm:
+Nó bao gồm: 
 
-* Tổ chức thư mục
-* Quy ước đặt tên
-* Phân cấp tài liệu
-* Mối liên kết giữa các thành phần
+* Hướng dẫn tổ chức thư mục/file
+* Quy ước đặt tên thư mục/file
+* Mối liên hệ giữa các thư mục/file
 
-Các bài viết mang thẻ này đóng vai trò **nền tảng**, giúp đảm bảo:
+Các bài viết mang thẻ này đóng vai trò **nền tảng**, đảm bảo:
 
-* Tính nhất quán
-* Khả năng mở rộng
-* Khả năng hiểu và điều hướng trong toàn hệ thống
+* Tính nhất quán khi mở rộng
+* Khả năng hiểu và tìm kiếm trong hệ thống
 
 </details>
 
 ---
 
-## Các bài viết có thẻ `#cấu-trúc`
+## 📚 2. Các bài viết có thẻ `#cấu-trúc`
 
-[1. Cách tạo Metadata cho bài viết Markdown](/1.1%20Kiến%20thức%20[vi]/0.%20Hướng%20dẫn/1.%20Cách%20tạo%20Metadata%20bài%20viết.md)
+[1. Quy tắc tổ chức thư mục `Dự án [vi]`](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)
 
-[2. Quy tắc tổ chức thư mục (Dự án)](/1.2%20Dự%20án%20[vi]/0.%20Hướng%20dẫn/1.%20Quy%20tắc%20tổ%20chức%20thư%20mục.md)
-
-[3. Danh sách thẻ](/1.1%20Kiến%20thức%20[vi]/0.%20Hướng%20dẫn/2.%20Danh%20sách%20thẻ.md)
+[2. Danh sách nội dung Python](/1.1%20Kiến%20thức%20[vi]/2.%20Lập%20trình/1.%20Python/0.%20Hướng%20dẫn/1.%20Danh%20sách%20nội%20dung%20Python.md)
