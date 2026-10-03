@@ -6,7 +6,7 @@
 > **Tác giả:** ThuongDev  
 >
 > **Ngày tạo:** 2026-07-24  
-> **Cập nhật:** 2026-07-28  
+> **Cập nhật:** 2026-10-03  
 >
 > **Ngữ cảnh:** Danh sách nội dung theo thẻ   
 
@@ -43,3 +43,5 @@ Các bài viết mang thẻ này đóng vai trò kiến thức cốt lõi, giúp
 ## 📚 2. Các bài viết có thẻ `#python`
 
 [1. Danh sách nội dung Python](/1.1%20Kiến%20thức%20[vi]/2.%20Lập%20trình/1.%20Python/0.%20Hướng%20dẫn/1.%20Danh%20sách%20nội%20dung%20Python.md)
+
+[2. Python là gì](/1.1%20Kiến%20thức%20[vi]/2.%20Lập%20trình/1.%20Python/1.%20Giới%20thiệu/1.%20Python%20là%20gì.md)

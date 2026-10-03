@@ -6,7 +6,7 @@
 > **Author:** ThuongDev  
 >
 > **Created:** 2026-07-25  
-> **Updated:** 2026-07-28  
+> **Updated:** 2026-10-03  
 >
 > **Context:** Tag-based content listing   
 
@@ -44,3 +44,5 @@ Articles with this tag serve as core knowledge, helping to:
 ## 📚 2. Articles tagged with `#python`
 
 [1. Python Content Overview](/2.1%20Knowledge%20[en]/2.%20Programming/1.%20Python/0.%20Guides/1.%20Python%20Content%20Overview.md)
+
+[2. What Is Python](/2.1%20Knowledge%20[en]/2.%20Programming/1.%20Python/1.%20Introduction/What%20Is%20Python.md)
