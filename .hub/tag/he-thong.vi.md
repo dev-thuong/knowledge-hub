@@ -1,5 +1,5 @@
 <details>
-<summary>📌 Meta · ID: TG-003</summary>
+<summary>📌 Meta · ID: TG-002_vi</summary>
 
 <br>
 
@@ -27,7 +27,7 @@ Nó bao gồm các bài viết về:
 
 * Quy tắc quản lý thông tin (ví dụ: metadata)
 * Cấu trúc phân loại (ví dụ: tag)
-* Cấu trúc thư mục/file, được đề cập chi tiết trong [#cấu-trúc](/.hub/nav/tag/cau-truc.vi.md)
+* Cấu trúc thư mục/file, được đề cập chi tiết trong [#cấu-trúc](/.hub/tag/cau-truc.vi.md)
 * Nguyên tắc vận hành hệ thống
 
 Các bài viết mang thẻ này đóng vai trò **định hướng**, giúp đảm bảo:

@@ -1,5 +1,5 @@
 <details>
-<summary>📌 Meta · ID: TG-007</summary>
+<summary>📌 Meta · ID: TG-004_vi</summary>
 
 <br>
 
@@ -31,5 +31,5 @@ Nội dung này bao gồm danh sách các thẻ đại diện cho từng chươn
 
 ## 📚 2. Các chương trình học
 
-[Python (#python)](/.hub/nav/tag/python.vi.md)
+[Python (#python)](/.hub/tag/python.vi.md)
 

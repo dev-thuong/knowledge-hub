@@ -1,5 +1,5 @@
 <details>
-<summary>📌 Meta · ID: TG-008</summary>
+<summary>📌 Meta · ID: TG-004_en</summary>
 
 <br>
 
@@ -31,4 +31,4 @@ It includes a list of tags representing specific learning programs (such as #pyt
 
 ## 📚 2. Learning Programs
 
-[Python (#python)](/.hub/nav/tag/python.en.md)
+[Python (#python)](/.hub/tag/python.en.md)

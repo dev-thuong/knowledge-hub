@@ -1,5 +1,5 @@
 <details>
-<summary>📌 Meta · ID: TG-004</summary>
+<summary>📌 Meta · ID: TG-002_en</summary>
 
 <br>
 
@@ -27,7 +27,7 @@ It includes articles on:
 
 * Information management rules (e.g., metadata)
 * Classification structure (e.g., tags)
-* Directory/file structure, detailed in [#structure](/.hub/nav/tag/structure.vi.md)
+* Directory/file structure, detailed in [#structure](/.hub/tag/structure.vi.md)
 * System operating principles
 
 Articles with this tag serve as **guidance**, helping to ensure:

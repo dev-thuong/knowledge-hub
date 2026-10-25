@@ -1,5 +1,5 @@
 <details>
-<summary>📌 Meta · ID: PR-002</summary>
+<summary>📌 Meta · ID: PR-001_en</summary>
 
 <br>
 
@@ -9,7 +9,7 @@
 >
 > **Context:** Python Curriculum  
 > **Status:** Active  
-> **Tags:** [#python](/.hub/nav/tag/python.en.md)    
+> **Tags:** [#python](/.hub/tag/python.en.md)    
 
 </details>
 
