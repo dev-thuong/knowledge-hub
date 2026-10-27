@@ -12,6 +12,8 @@
 
 </details>
 
+<style>h1{color:#e5533d;text-align:center}h2{color:#1f6feb}h3{color:#8e44ad}h4{color:#2ea44f}</style>
+
 # Tag `#python`
 
 ## 🏷️ 1. What is the `#python` tag?
